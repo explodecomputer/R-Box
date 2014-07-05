@@ -1,5 +1,8 @@
 [
   {
+    "keys": ["super+shift+alt+r"], "command": "r_docs"
+  },
+  {
     "keys": ["super+enter"],
     "command": "r_box_send_selection", "context": [
       { "key": "selector", "operator": "equal", "operand": "source.r" }

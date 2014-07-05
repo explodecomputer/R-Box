@@ -39,6 +39,9 @@ Change R Applications
 
 - `C + shift + p` -> `R-Box Application`
 
+Add [roxygen](http://roxygen.org/) documentation to functions
+
+- `C + shift + alt + r` when cursor is anove function 
 
 ### Settings
 
